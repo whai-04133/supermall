@@ -6,7 +6,7 @@
     </div>
     <router-view/>
   </div>
-</template>
+</template> 
 
 <style>
 #app {
